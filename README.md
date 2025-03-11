@@ -1,4 +1,6 @@
-
+# EX-01-Linux-Commands
+## Name: Farhana H
+## reg no:212223230057
 
 
 ## Aim:
